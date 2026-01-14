@@ -25,6 +25,7 @@ I am a 3rd-year Computer Science student focusing on high-performance systems an
 ### 📈 Current Exploration
 * 🌱 Refining high-performance Java implementation strategies.
 * 📖 Researching cybersecurity fundamentals and international technology trends.
+* 🤖 Exploring foundations of artificial intelligence and efficient model execution.
 * 🏋️ Hobbies: weightlifting, rock climbing, and snowboarding.
 
 [LinkedIn](https://linkedin.com/in/sami-karam05)
