@@ -1,31 +1,26 @@
 # Sami Karam 👋
-### Computer Science Student | Concordia University (Co-op)
 
-I am a 3rd-year Computer Science student focusing on high-performance systems and backend reliability. I view my foundation in data structures and memory optimization as the essential groundwork for a future career in **Cybersecurity** or **AI infrastructure**.
+**AI + Cybersecurity | Research Intern @ Polytechnique Montréal | CS Co-op @ Concordia**
 
----
+Third-year Computer Science co-op student focused on machine learning and cybersecurity. I build and evaluate ML systems, currently as a research intern at Polytechnique Montréal.
 
-### 🔍 Current Interests
-* **Systems Integrity:** Interested in anomaly detection and monitoring based on my internship experience with industrial logs.
-* **Algorithmic Foundations:** Optimizing code at the hardware level (O(1) vs O(n)) to prepare for high-scale backend roles.
-* **Future Paths:** Actively researching the intersection of Cybersecurity (defense) and AI (optimization).
+## 🔬 What I'm working on
 
-### 🛠 Technical Foundation
-* **Languages:** Java (Certified), Python, C, C++ (Beginner), Bash, and Clojure (Beginner).
-* **Environment:** Git/GitHub, Linux (Ubuntu), JUnit, VS Code.
-* **Academic Portfolio:** [Java-Technical-Portfolio](https://github.com/Meartops/Java-Technical-Portfolio) (Projects focused on algorithmic efficiency and cache locality).
+- **Research Intern, Polytechnique Montréal** — applied machine learning research in cybersecurity on Prof. Adel Abusitta's team. Recipient of the 2026 Undergraduate Summer Internship Award (1 of 12 from 326 applicants across 36 Canadian universities). *Project under NDA.*
 
-### 💼 Practical Experience
-* **Technical Operations Intern (2023):** Managed data integrity for electromechanical systems (improved retrieval efficiency by 20%).
-* **Academic Standing:** 3.37 / 4.30 GPA.
-* **Bilingualism:** Trilingual in English, French, and Arabic.
+## 🛠 Projects
 
----
+- **Brim Expense Intelligence** — Winner, Brim Challenge @ MPC Hacks 2026. Full-stack agentic AI co-pilot that audits corporate-card spend against policy and drafts fixes. A multi-step agent runs its own read-only database queries before judging each charge. Built with [teammate]. `React` `Node.js` `MongoDB` `Claude API`. [Demo](link)
+- **CNN Skin-Lesion Classification** — PyTorch pipeline classifying dermoscopic images across 14 disease classes and 49,198 images. Best model (MobileNetV2 + transfer learning) reached 89% accuracy and 0.76 macro-F1 at 1/60th the parameters of VGG-16. Diagnosed a majority-class collapse hidden behind 77% accuracy. *(COMP 472 — code private under course policy)*
+- **[Java Technical Portfolio](https://github.com/Meartops/Java-Technical-Portfolio)** — algorithmic efficiency and cache-locality exercises in Java.
 
-### 📈 Current Exploration
-* 🌱 Refining high-performance Java implementation strategies.
-* 📖 Researching cybersecurity fundamentals and international technology trends.
-* 🤖 Exploring foundations of artificial intelligence and efficient model execution.
-* 🏋️ Hobbies: weightlifting, rock climbing, and snowboarding.
+## 💻 Stack
 
-[LinkedIn](https://linkedin.com/in/karamsami)
+- **ML & data:** Python, PyTorch, scikit-learn, NumPy
+- **Full-stack & AI systems:** React, Node.js, MongoDB, Claude / Anthropic API
+- **Languages & tools:** Java, C/C++, Bash, Git, Linux (Ubuntu), JUnit
+
+## 📌 Also
+
+- 3.5 GPA · Trilingual (English, French, Arabic)
+- [LinkedIn](https://linkedin.com/in/sami-karam05)
