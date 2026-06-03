@@ -28,4 +28,4 @@ I am a 3rd-year Computer Science student focusing on high-performance systems an
 * 🤖 Exploring foundations of artificial intelligence and efficient model execution.
 * 🏋️ Hobbies: weightlifting, rock climbing, and snowboarding.
 
-[LinkedIn](https://linkedin.com/in/sami-karam05)
+[LinkedIn](https://linkedin.com/in/karamsami)
