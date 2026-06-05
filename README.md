@@ -11,7 +11,7 @@ Third-year Computer Science co-op student focused on machine learning and cybers
 ## 🛠 Projects
 
 - **Brim Expense Intelligence** — Winner, Brim Challenge @ MPC Hacks 2026. Full-stack agentic AI co-pilot that audits corporate-card spend against policy and drafts fixes. A multi-step agent runs its own read-only database queries before judging each charge. Built with [teammate]. `React` `Node.js` `MongoDB` `Claude API`. [Demo](https://www.youtube.com/watch?v=VsVfb5BQReM&feature=youtu.be)
-- **CNN Skin-Lesion Classification** — PyTorch pipeline classifying dermoscopic images across 14 disease classes and 49,198 images. Best model (MobileNetV2 + transfer learning) reached 89% accuracy and 0.76 macro-F1 at 1/60th the parameters of VGG-16. Diagnosed a majority-class collapse hidden behind 77% accuracy. *(COMP 472 — code private under course policy)*
+- **CNN Skin-Lesion Classification** — PyTorch pipeline classifying dermoscopic images across 14 disease classes and 49,198 images. Best model (MobileNetV2 + transfer learning) reached 89% accuracy and 0.76 macro-F1 at 1/60th the parameters of VGG-16. Diagnosed a majority-class collapse hidden behind 77% accuracy. *(COMP 472: code private under course policy)*
 - **[Java Technical Portfolio](https://github.com/Meartops/Java-Technical-Portfolio)** — algorithmic efficiency and cache-locality exercises in Java.
 
 ## 💻 Stack
