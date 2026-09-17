@@ -22,5 +22,5 @@ Third-year Computer Science co-op student focused on machine learning and cybers
 
 ## 📌 Also
 
-- 3.5 GPA · Trilingual (English, French, Arabic)
+- 3.33 GPA · Trilingual (English, French, Arabic)
 - [LinkedIn](https://linkedin.com/in/sami-karam05)
