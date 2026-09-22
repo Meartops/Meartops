@@ -19,7 +19,7 @@ Applied machine learning research in cybersecurity on Prof. Adel Abusitta's team
 
 ## 🛠 Projects
 
-* **Brim Expense Intelligence.** 1st place, Brim Financial Challenge @ MPC Hacks 2026 (193 participants, 24h). An agentic AI co-pilot that audits corporate-card spend against policy. A multi-step agent runs its own read-only database queries before judging each charge, so every dollar figure is query-derived rather than model-generated. Built with a teammate on a demo dataset. `React` `Node.js` `MongoDB` `Anthropic API` · [live demo](https://brim-expense-intel.onrender.com/) · [video](https://www.youtube.com/watch?v=VsVfb5BQReM&feature=youtu.be)
+* **Brim Expense Intelligence.** 1st place, Brim Financial Challenge @ MPC Hacks 2026 (193 participants, 24h). An agentic AI co-pilot that audits corporate-card spend against policy. A multi-step agent runs its own read-only database queries before judging each charge, so every dollar figure is query-derived rather than model-generated. `React` `Node.js` `MongoDB` `Anthropic API` · [live demo](https://brim-expense-intel.onrender.com/) · [video](https://www.youtube.com/watch?v=VsVfb5BQReM&feature=youtu.be)
 
 * **Smart Course Companion.** Course and GPA tracking web app (SOEN 287, team of 4, graded 10/10). I built the server foundation and the authentication backend: Express 5 with routes, controllers, models and middleware, SQLite through Sequelize, bcrypt-hashed passwords and JWT, and the auth middleware behind every protected route of a 26-endpoint API. `JavaScript` `Node.js` `Express` `SQLite` `Sequelize` (code private under course policy)
 
